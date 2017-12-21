@@ -1,0 +1,3 @@
+rootProject.name = 'IAP_RN'
+
+include ':app'
